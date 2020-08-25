@@ -1,1 +1,7 @@
-/* This is the styles sheet for all the pages related to coredogs parctice task #1 */
+main {
+    background-image: linear-gradient(lightblue, white);
+}
+
+.red{
+    color: red;
+}
